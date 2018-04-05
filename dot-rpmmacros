@@ -6,6 +6,6 @@
 %vendor         Routed Logic
 
 %_signature     gpg
-%_gpg_name      routedlogic.net RPM Packager
+%_gpg_name      routedlogic.net RPM Builder
 
 # EOF
