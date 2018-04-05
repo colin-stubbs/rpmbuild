@@ -1,0 +1,11 @@
+# ~rpmbuilder/.rpmmacros
+
+%_topdir %(echo $HOME)/rpmbuild
+
+%packager       Routed Logic RPM Builder <rpmbuilder@routedlogic.net>
+%vendor         Routed Logic
+
+%_signature     gpg
+%_gpg_name      routedlogic.net RPM Packager
+
+# EOF
